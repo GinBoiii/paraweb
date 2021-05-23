@@ -1,2 +1,2 @@
-# paraweb
-Created with CodeSandbox
+# ParaWeb
+WebApp for paragliders. 
